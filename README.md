@@ -29,7 +29,6 @@ Tecnologias que eu uso no dia a dia
 Tecnologias que estou estudando...
 
 <div style="display: inline-block" >
-<img align="center" style="margin-bottom:7px"alt="html" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img style="margin-bottom:7px" align="center" alt="html" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img style="margin-bottom:7px" align="center" alt="html" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img style="margin-bottom:7px" align="center" alt="html" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
